@@ -1,6 +1,12 @@
 <h1>ForoHub API with Java Spring</h1>
 
 <p>This project was made during AluraLatam course: REST API using Java and Spring. It allows management of questions, answers, and user authentication with JWT.</p>
+<p>Deploy on Render and MySQL database on Aiven.</p>
+
+<h2>📌 API Access</h2>
+
+API documentation is available on Swagger: 
+🔗 [ForoHub API - Swagger UI](https://forohub-7dcv.onrender.com/swagger-ui/index.html#/)
 
 <h2>Features</h2>
     <ul>
@@ -16,6 +22,7 @@
         <li>Spring Security with JWT</li>
         <li>Spring Data JPA</li>
         <li>MySQL</li>
+        <li>Docker</li>
     </ul>
 
   <h2>Setup</h2>
