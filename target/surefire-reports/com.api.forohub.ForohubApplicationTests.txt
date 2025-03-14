@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api.forohub.ForohubApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.00 s -- in com.api.forohub.ForohubApplicationTests
